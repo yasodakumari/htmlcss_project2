@@ -1,0 +1,183 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: initial;
+
+}
+
+nav{
+    background: rgb(16, 5, 83);
+    width: 100%;
+    text-align: center;
+}
+
+label.logo{
+    color: white;
+    font-size: 20px;
+    line-height: 80px;
+}
+
+nav1{
+    height: 80px;
+    width: 100%;
+}
+
+label.logo1{
+    color: rgb(17, 17, 17);
+    font-size: 25px;
+    line-height: 80px;
+    padding: 0 70px;
+    font-weight: bold;
+}
+
+nav1 ul{
+    float: right;
+    margin-right: 20px;
+    
+}
+
+nav1 ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0px 2px;
+    padding: 0 5px;
+    
+}
+
+nav1 ul li a{
+    color: black;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.html{
+    margin: 100px 10px;
+}
+
+.img{
+ padding: 40px 0px;
+ margin: 20px 0px;
+ 
+}
+.container{
+    display: flex;
+    margin: 70px;
+    border: 2px solid rgb(146, 137, 137);
+     border-radius: 10px;
+     width: 1220px;
+     height: 600px;
+}
+
+.container1{
+display: grid;
+margin: 70px;
+
+}
+
+.tool{  
+    margin:  20px;
+    padding: 46px 20px;
+    border: 2px solid rgb(146, 137, 137);
+    border-radius: 10px;
+    height: 570px;
+    width: 550px;
+    font-size: 18px;
+    
+}
+
+.tool1{
+    padding: 20px 20px;
+    border: 2px solid rgb(146, 137, 137);
+    border-radius: 10px;
+    height: 290px;
+    width: 550px;
+    font-size: 18px;
+    margin-top: -685px;
+    margin-left: 630px;
+}
+
+.tool2{
+    padding: 20px 20px;
+    border: 2px solid rgb(146, 137, 137);
+    border-radius: 10px;
+    height: 250px;
+    width: 550px;
+    font-size: 18px;
+    margin-top: -320px;
+    margin-left: 630px;
+}
+
+.faq{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+
+}
+
+.faq1{
+    border: 2px solid rgb(146, 137, 137);
+    border-radius: 10px;
+    line-height: 70px;
+    width: 550px;
+    text-align: start;
+    padding: 0px 40px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.disc{
+    background: rgb(3, 3, 121);
+    color: white;
+    text-align: center;
+    height: 350px;
+    border-radius: 10px;
+    padding: 40px 0px;
+    margin: 20px;
+}
+
+.mentor {
+ 
+   display: flex; 
+   margin: 20px;
+
+}
+
+nav3{
+ height: 80px;
+    width: 100%;
+}
+
+label.front{
+    font-size: 20px;
+    line-height: 80px;
+    padding: 0 70px;
+    
+}
+
+nav3 ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav3 ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0px 10px;
+    padding: 0 5px;
+}
+
+nav3 ul li a{
+    font-size: 15px;
+    
+    text-transform: uppercase;
+    text-decoration: none; 
+}
+
